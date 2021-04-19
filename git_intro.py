@@ -5,3 +5,7 @@ if len(name):
     print("non-zero length name.")
 else:
     pass
+#use "git rm --cached <file>..." to unstage
+#use "git restore <file>..." to discard changes in working directory
+#git commit -a <file>
+#use "git restore --staged <file>..." to unstages
