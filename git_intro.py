@@ -10,3 +10,4 @@ else:
 #git commit -a <file>
 #use "git restore --staged <file>..." to unstages
 print("not sure why it did not change")
+print("not sure if this second git branch is going to be shown in the git log or not. let's see.")
